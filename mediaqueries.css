@@ -1,0 +1,26 @@
+/* 
+@media screen and (max-width: 768px) {
+    .menu-toggle {
+        display: block; 
+    }
+
+    .navbar ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    .navbar li {
+        margin: 10px 0;
+    }
+} */
+
+/* @media screen and (max-width: 1200px) {
+    #desktop-nav {
+      display: none;
+    }
+  
+    #hamburger-nav {
+      display: flex;
+    }
+} */
+
